@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/prueba/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/prueba/static/js/main.c58e366a.chunk.js",
-    "main.js.map": "/prueba/static/js/main.c58e366a.chunk.js.map",
-    "runtime-main.js": "/prueba/static/js/runtime-main.35b6e893.js",
-    "runtime-main.js.map": "/prueba/static/js/runtime-main.35b6e893.js.map",
-    "static/js/2.a8e60d37.chunk.js": "/prueba/static/js/2.a8e60d37.chunk.js",
-    "static/js/2.a8e60d37.chunk.js.map": "/prueba/static/js/2.a8e60d37.chunk.js.map",
-    "index.html": "/prueba/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/prueba/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.a8e60d37.chunk.js.LICENSE.txt": "/prueba/static/js/2.a8e60d37.chunk.js.LICENSE.txt"
+    "main.css": "/testing-sandbox/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/testing-sandbox/static/js/main.c58e366a.chunk.js",
+    "main.js.map": "/testing-sandbox/static/js/main.c58e366a.chunk.js.map",
+    "runtime-main.js": "/testing-sandbox/static/js/runtime-main.819985c7.js",
+    "runtime-main.js.map": "/testing-sandbox/static/js/runtime-main.819985c7.js.map",
+    "static/js/2.a8e60d37.chunk.js": "/testing-sandbox/static/js/2.a8e60d37.chunk.js",
+    "static/js/2.a8e60d37.chunk.js.map": "/testing-sandbox/static/js/2.a8e60d37.chunk.js.map",
+    "index.html": "/testing-sandbox/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/testing-sandbox/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a8e60d37.chunk.js.LICENSE.txt": "/testing-sandbox/static/js/2.a8e60d37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35b6e893.js",
+    "static/js/runtime-main.819985c7.js",
     "static/js/2.a8e60d37.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.c58e366a.chunk.js"
