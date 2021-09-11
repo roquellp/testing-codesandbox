@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/testing-sandbox/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/testing-sandbox/static/js/main.c58e366a.chunk.js",
-    "main.js.map": "/testing-sandbox/static/js/main.c58e366a.chunk.js.map",
-    "runtime-main.js": "/testing-sandbox/static/js/runtime-main.819985c7.js",
-    "runtime-main.js.map": "/testing-sandbox/static/js/runtime-main.819985c7.js.map",
-    "static/js/2.a8e60d37.chunk.js": "/testing-sandbox/static/js/2.a8e60d37.chunk.js",
-    "static/js/2.a8e60d37.chunk.js.map": "/testing-sandbox/static/js/2.a8e60d37.chunk.js.map",
+    "main.js": "/testing-sandbox/static/js/main.fd3039ca.chunk.js",
+    "main.js.map": "/testing-sandbox/static/js/main.fd3039ca.chunk.js.map",
+    "runtime-main.js": "/testing-sandbox/static/js/runtime-main.32d2a9a7.js",
+    "runtime-main.js.map": "/testing-sandbox/static/js/runtime-main.32d2a9a7.js.map",
+    "static/js/2.06349e32.chunk.js": "/testing-sandbox/static/js/2.06349e32.chunk.js",
+    "static/js/2.06349e32.chunk.js.map": "/testing-sandbox/static/js/2.06349e32.chunk.js.map",
     "index.html": "/testing-sandbox/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/testing-sandbox/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.a8e60d37.chunk.js.LICENSE.txt": "/testing-sandbox/static/js/2.a8e60d37.chunk.js.LICENSE.txt"
+    "static/js/2.06349e32.chunk.js.LICENSE.txt": "/testing-sandbox/static/js/2.06349e32.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.819985c7.js",
-    "static/js/2.a8e60d37.chunk.js",
+    "static/js/runtime-main.32d2a9a7.js",
+    "static/js/2.06349e32.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c58e366a.chunk.js"
+    "static/js/main.fd3039ca.chunk.js"
   ]
 }
